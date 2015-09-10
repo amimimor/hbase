@@ -68,6 +68,7 @@
     <module>hbase-annotations</module>
     <module>hbase-checkstyle</module>
     <module>hbase-shaded</module>
+    <module>hbase-spark</module>
   </modules>
   <!--Add apache snapshots in case we want to use unreleased versions of plugins:
       e.g. surefire 2.18-SNAPSHOT-->
